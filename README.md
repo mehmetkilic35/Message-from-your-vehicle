@@ -1,3 +1,35 @@
+<h1>Vehicle Safety System</h1>
+    <p>Welcome to the Vehicle Safety System repository! This system is designed to enhance the safety and security of parked vehicles by monitoring various environmental and security parameters. Once activated, 5 minutes after the driver exits the vehicle, the system diligently starts to oversee the parked vehicle's condition.</p>
+
+    <h2>Project Overview</h2>
+    <p>Our Vehicle Safety System is aimed at protecting not only the vehicle but also any living beings that might be inside. It leverages a range of sensors to detect conditions such as motion, temperature, air quality, and smoke. In any instance where these readings exceed safe thresholds—indicating potential dangers like fire, extreme temperatures, or unauthorized access—the system promptly alerts the vehicle owner and the appropriate emergency services, providing rapid response to prevent harm or theft.</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li><strong>Motion Detection</strong>: Alerts are sent if unexpected movement is detected inside the vehicle after the activation period.</li>
+        <li><strong>Temperature Monitoring</strong>: Monitors the internal temperature to safeguard against extreme conditions that could endanger pets or children left inside.</li>
+        <li><strong>Smoke and Fire Detection</strong>: Detects signs of fire or excessive smoke, immediately notifying the owner and emergency services.</li>
+        <li><strong>Air Quality Control</strong>: Ensures the air inside the vehicle is safe, alerting if toxic levels are detected that could pose health risks.</li>
+    </ul>
+
+    <h2>Setup and Operation</h2>
+    <ol>
+        <li><strong>Installation</strong>: Install the system by connecting the various sensors as described in the schematics provided in the <code>/diagrams</code> folder.</li>
+        <li><strong>Configuration</strong>: Connect the system to a Wi-Fi network using the provided SSID and password fields in the configuration file.</li>
+        <li><strong>Activation</strong>: The system automatically activates 5 minutes after the vehicle has been parked and the driver exits.</li>
+        <li><strong>Alerts</strong>: In the event of any critical condition, the system sends real-time alerts to the registered mobile number via Telegram, along with appropriate instructions or warnings.</li>
+    </ol>
+
+    <h2>Contributions</h2>
+    <p>Contributions to this project are welcome. You can help by:</p>
+    <ul>
+        <li>Testing the system under different environmental conditions.</li>
+        <li>Suggesting improvements or additional features.</li>
+        <li>Reporting any issues or bugs in the issues section of this repository.</li>
+    </ul>
+
+    <p>Thank you for your interest in improving vehicle safety with technology. For more information or to see how you can get involved, please visit our <a href="https://kilicmehmet.com">website</a>.</p>
+    
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello, I'm Mehmet. I am open to self-improvement 💻 and I am constantly improving myself.</h3>
 
